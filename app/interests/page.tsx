@@ -8,7 +8,7 @@ export default async function Life() {
       </div>
       <div>
         <p className="text-muted-foreground text-base py-4">
-            Life goes on too fast
+            Life goes on too slow sometimes
             </p>
       </div>
     </div>
