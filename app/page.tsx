@@ -8,7 +8,7 @@ import {useState, useEffect} from 'react';
 
 
 // TODO: tours, tags, people 
-const list = ['my life ', 'my people', 'my work', 'my interests', 'my reflections', 'my books'];
+const list = ['my life ', 'my people', 'my work', 'my interests', 'to my blog', 'my books'];
 const urls = ['/life', '/people', '/work','/interests','/blog','/books']
 
 
