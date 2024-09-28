@@ -1,13 +1,13 @@
 export const siteConfig = {
-    name: "naman",
+    name: "sam",
     // Todo: Update this 
     url: "https://example.com",
-    description: "Life of Pi",
-    author: "Naman Jain",
+    description: "Carbon",
+    author: "Zaphod Beeblebrox",
     links: {
-      twitter: "https://twitter.com/theBhulawat",
-      github: "https://github.com/thebhulawat",
-      mail: "mailto:namanbhulawat@gmail.com",
+      twitter: "https://x.com/Samyukktha",
+      github: "https://github.com/sam-zerok",
+      mail: "mailto:samyukktha.t@gmail.com",
     },
   };
   

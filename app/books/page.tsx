@@ -1,12 +1,7 @@
 export default async function Life() {
   const shelf = [
     { title: "1984" },
-    { title: "Outliers" },
-    { title: "Shiva Tirology" },
-    { title: "Kite Runner" },
-    { title: "Meaning of life" },
-    { title: "Sapiens" },
-    { title: "Many more to add here..." },
+    { title: "To be added..." },
   ];
 
   return (
@@ -18,10 +13,7 @@ export default async function Life() {
       </div>
       <div>
         <p className="text-muted-foreground text-base py-4">
-          Life goes on too fast. It&aposs a whirlwind of moments and memories,
-          and we often forget to pause and reflect on the journey we&aposre on.
-          The days may seem long, but the years are short, and before we know
-          it, we&aposre looking back wondering where the time went.
+          Life goes on too fast. 
         </p>
         <h2 className="text-muted-foreground mt-6 mb-4">
           {" "}

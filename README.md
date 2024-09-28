@@ -1,2 +1,2 @@
-# naman-home
+# sam-home
 Welcome
